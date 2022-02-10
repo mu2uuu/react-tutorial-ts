@@ -1,5 +1,5 @@
 ## 概要
-Reactチュートリアルのtypescript化と関数コンポーネント化しています。  
+Reactチュートリアルのtypescript化と関数コンポーネント化をしています。  
 [こちら](https://www.membersedge.co.jp/blog/refactor-react-official-tutorial/)のサイトを参考にさせて頂きました。
 ## Available Scripts
 
