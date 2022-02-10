@@ -1,7 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## 概要
+Reactチュートリアルのtypescript化と関数コンポーネント化しています。  
+[こちら](https://www.membersedge.co.jp/blog/refactor-react-official-tutorial/)のサイトを参考にさせて頂きました。
 ## Available Scripts
 
 In the project directory, you can run:
